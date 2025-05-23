@@ -1,0 +1,8 @@
+Django>=4.2,<5.0
+djangorestframework>=3.14,<4.0
+drf-yasg>=1.21.5  # for API documentation using Swagger
+django-cors-headers>=4.3.1  # if you're dealing with cross-origin requests
+psycopg2-binary>=2.9.9  # if using PostgreSQL (optional)
+python-dotenv>=1.0.1  # for managing environment variables
+djangorestframework-simplejwt>=5.3.1
+pillow
